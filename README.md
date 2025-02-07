@@ -8,9 +8,10 @@ Official implementation of NA-CNN (Neural Additive CNN) for Explainable AI in Cl
 
 ---
 NOTES: 
-1. The implementation in the Jupyter notebook is self-contained, including data processing, model training, and XAI evaluations.
-2. We also provided a separate `models.py` file for ease of use in experiments with different datasets in your own project.
+1. The implementation in the Jupyter notebook is self-contained, including data processing, model training, and XAI evaluations for ease of use domain scientists, 
+2. We also provided a separate `models.py` file to provide quick insights into our model's definition and implmentation.
 3. The SST dataset is from <a href="https://www.psl.noaa.gov/repository/entry/show?entryid=f45cf25c-bde2-44bd-bf3d-c943d92c0dd8"> <b> NOAA PSL Climate Data Repository </b> </a>. Please download the dataset and put it in the `./data` folder.
+4. Since there are many visualizations in the Notebook, it might take 10-20 seconds to display the notebook on GitHub.
 
 ---
 Thank you for your interest in our work. If we find our work useful to our research, we would be very appreciate it if you can consider citing our paper:
