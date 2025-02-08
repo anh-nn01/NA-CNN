@@ -14,7 +14,7 @@ NOTES:
 4. Since there are many visualizations in the Notebook, it might take 10-20 seconds to display the notebook on GitHub.
 
 ---
-Thank you for your interest in our work. If we find our work useful to our research, we would be very appreciate it if you can consider citing our paper:
+Thank you for your interest in our work. If we find our work useful to your research / project(s), we would be very appreciate it if you can consider citing our paper:
 
 ```
 @inproceedings{10.1145/3589132.3628369,
